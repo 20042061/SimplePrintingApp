@@ -15,7 +15,7 @@ namespace SimplePrintingApp
             Console.WriteLine("======================================\n");
             Console.ResetColor();
 
-            // Personal Details printed directly (no variables)
+            // Personal Details
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("=== Personal Details ===");
             Console.ResetColor();
@@ -36,7 +36,7 @@ namespace SimplePrintingApp
         }
     }
 
-    // Second class (uses variables)
+    // Second class 
     class MotivationalQuote
     {
         public void PrintQuote()
