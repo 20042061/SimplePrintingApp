@@ -36,7 +36,7 @@ namespace SimplePrintingApp
         }
     }
 
-    // Second class 
+    // Second class motivational quote
     class MotivationalQuote
     {
         public void PrintQuote()
