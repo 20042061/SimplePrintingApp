@@ -20,7 +20,7 @@ namespace SimplePrintingApp
             Console.WriteLine("=== Personal Details ===");
             Console.ResetColor();
             Console.WriteLine("Name: Nikesh Bhattarai");
-            Console.WriteLine("Address: Kathmandu, Nepal");
+            Console.WriteLine("Address: Biratnagar, Nepal");
             Console.WriteLine("Contact Number: +977-976-2882561");
             Console.WriteLine("College: Itahari International College");
             Console.WriteLine("========================\n");
