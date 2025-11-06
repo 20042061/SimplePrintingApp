@@ -1,0 +1,14 @@
+C:\Users\marco\Videos\Final Year Project Year 3\New folder\SimplePrintingApp\bin\Debug\net9.0\SimplePrintingApp.exe
+C:\Users\marco\Videos\Final Year Project Year 3\New folder\SimplePrintingApp\bin\Debug\net9.0\SimplePrintingApp.deps.json
+C:\Users\marco\Videos\Final Year Project Year 3\New folder\SimplePrintingApp\bin\Debug\net9.0\SimplePrintingApp.runtimeconfig.json
+C:\Users\marco\Videos\Final Year Project Year 3\New folder\SimplePrintingApp\bin\Debug\net9.0\SimplePrintingApp.dll
+C:\Users\marco\Videos\Final Year Project Year 3\New folder\SimplePrintingApp\bin\Debug\net9.0\SimplePrintingApp.pdb
+C:\Users\marco\Videos\Final Year Project Year 3\New folder\SimplePrintingApp\obj\Debug\net9.0\SimplePrintingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Videos\Final Year Project Year 3\New folder\SimplePrintingApp\obj\Debug\net9.0\SimplePrintingApp.AssemblyInfoInputs.cache
+C:\Users\marco\Videos\Final Year Project Year 3\New folder\SimplePrintingApp\obj\Debug\net9.0\SimplePrintingApp.AssemblyInfo.cs
+C:\Users\marco\Videos\Final Year Project Year 3\New folder\SimplePrintingApp\obj\Debug\net9.0\SimplePrintingApp.csproj.CoreCompileInputs.cache
+C:\Users\marco\Videos\Final Year Project Year 3\New folder\SimplePrintingApp\obj\Debug\net9.0\SimplePrintingApp.dll
+C:\Users\marco\Videos\Final Year Project Year 3\New folder\SimplePrintingApp\obj\Debug\net9.0\refint\SimplePrintingApp.dll
+C:\Users\marco\Videos\Final Year Project Year 3\New folder\SimplePrintingApp\obj\Debug\net9.0\SimplePrintingApp.pdb
+C:\Users\marco\Videos\Final Year Project Year 3\New folder\SimplePrintingApp\obj\Debug\net9.0\SimplePrintingApp.genruntimeconfig.cache
+C:\Users\marco\Videos\Final Year Project Year 3\New folder\SimplePrintingApp\obj\Debug\net9.0\ref\SimplePrintingApp.dll
